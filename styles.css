@@ -1,0 +1,51 @@
+body {
+  background-image:url("./img/cave.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+
+#text {
+  background-color: #0a0a23;
+  color: #ffffff;
+  padding: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#game {
+  max-width: 600px;
+  max-height: 400px;
+  background-color: #bcb8b8;
+  color: #ffffff;
+  margin: 30px auto 0px;
+  padding: 10px;
+}
+
+#controls,
+#stats {
+  border: 1px solid #0a0a23;
+  padding: 5px;
+  color: #0a0a23;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#monsterStats {
+  display: none;
+  border: 1px solid #0a0a23;
+  padding: 5px;
+  color: #ffffff;
+  background-color: #c70d0d;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.stat {
+  padding-right: 10px;
+}
+
+button {
+  cursor: pointer;
+  color: #0a0a23;
+  background-color: #fe6c32;
+  background-image: linear-gradient(#ea8c43, #fe6c32);
+  border: 3px solid #962424;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
