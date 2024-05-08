@@ -19,9 +19,9 @@
 
 ### Links
 - Solution URL:
- https://github.com/Dev-Wy/
+ https://github.com/Dev-Wy/RPG-DragonRepeller
 - Live Site URL:
- https://dev-wy.github.io/
+ https://dev-wy.github.io/RPG-DragonRepeller/
 
 ## My Process
 ### Built with
